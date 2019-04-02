@@ -1,0 +1,23 @@
+{
+  "name": "growth-tracker",
+  "version": "2.0.0",
+  "description": "A Discord bot that tracks server growth",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ottomated",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "chartjs-node": "^1.7.1",
+    "discord.js": "github:discordjs/discord.js",
+    "fs-nextra": "^0.3.5",
+    "imgur": "^0.2.1",
+    "klasa": "github:dirigeants/klasa",
+    "node-fetch": "^2.1.2",
+    "ordinal-number-suffix": "^0.1.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
